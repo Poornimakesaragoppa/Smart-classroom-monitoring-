@@ -4,7 +4,6 @@
 This is my 30 hour hackthon project conducted by Dayanand Sagar collage of engineering collage in EEE Department.
  
 
-
 ## 🚀 About Me
 
 
