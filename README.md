@@ -30,9 +30,7 @@ To deploy this project run
 https://screenpal.com/watch/cZVnhOVH4FP
 
 
-## Screenshots
 
-![https://imgur.com/a/nfqUfpA](https://via.placeholder.com/468x300?text=App+Screenshot+.png)
 
 
 ## Documentation
